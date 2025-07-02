@@ -74,6 +74,14 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
+.content-details {
+  display: flex;
+  justify-content: space-between; /* Optional: adds spacing */
+  align-items: flex-start;        /* Align items to the top */
+  gap: 30px;                      /* Space between the columns */
+  padding: 20px 30px;
+}
+
 .tour-overview {
   padding: 20px 30px;
   margin-top: 20px;
@@ -83,6 +91,7 @@ body {
   color: #333;
   line-height: 1.6;
   font-family: Arial, sans-serif;
+  width: 70%;
 }
 
 .tour-overview h2 {
@@ -94,6 +103,42 @@ body {
 .tour-overview p {
   font-size: 16px;
   margin-bottom: 15px;
+}
+
+.payment{
+  margin-top: 30px;
+  padding: 15px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 400px;
+  text-align: center;
+}
+
+.price{
+  text-align: center;
+  font-size: xx-large;
+}
+
+.tour-price{
+  font-size: xx-large;
+  font-weight: bold;
+  color: orange;
+  display: inline;
+}
+
+.price-details{
+  font-size: large;
+}
+
+.book-tour{
+  padding: 16px 38px;
+  border-radius: 10px;
+  background-color: greenyellow;
+  border: none;
+  margin: 10px;
+  cursor: pointer;
+  font-size: large;
 }
 
 .section-overview{
