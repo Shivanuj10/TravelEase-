@@ -37,6 +37,7 @@ body {
   color: #000000; /* Black text */
   font-size: 1rem;
   transition: color 0.3s ease;
+  font-size: 1.6rem;
 }
 
 .nav-links li a:hover {
