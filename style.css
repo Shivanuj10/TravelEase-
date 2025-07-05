@@ -35,13 +35,18 @@ body {
 .nav-links li a {
   text-decoration: none;
   color: #000000; /* Black text */
-  font-size: 1rem;
+  font-size: 2rem;
   transition: color 0.3s ease;
-  font-size: 1.6rem;
 }
 
 .nav-links li a:hover {
   color: #ff5722; /* Optional hover color (orange accent) */
+}
+
+.navright {
+  display: flex;
+  align-items: center;
+  gap: 450px;
 }
 
 .hero {

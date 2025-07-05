@@ -1,0 +1,57 @@
+[
+  {
+    "startLocation": {
+      "description": "Mustang,Nepal",
+      "type": "Point",
+      "coordinates": [28.9985, 83.8473],
+      "address": "Mustang, Gandaki Province, Nepal"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2025-06-19T09:00:00.000Z",
+      "2025-07-20T09:00:00.000Z",
+      "2025-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Mystic Mustang Adventure",
+    "duration": 6,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 5000,
+    "summary": "Discover the breathtaking landscapes of Mustang, Nepal through scenic treks and cultural exploration.",
+    "description": "Journey into the mystical landscapes of Mustang, Nepal — a region known for its dramatic cliffs, ancient monasteries, and vibrant Tibetan-influenced culture. Explore the hidden trails of the Forbidden Kingdom, where centuries-old caves and panoramic views of the Himalayas await at every turn.\n\nThis unforgettable adventure takes you through remote villages, sacred temples, and windswept valleys, offering a rare glimpse into the preserved traditions of this high-altitude desert. From crossing deep gorges to experiencing the local hospitality, every step in Mustang is a story waiting to be told. Perfect for cultural seekers and trekking enthusiasts alike, this tour is a gateway to one of Nepal's most captivating and untouched regions",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Lummus Park Beach",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Islamorada",
+        "type": "Point",
+        "coordinates": [-80.647885, 24.909047],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Sombrero Beach",
+        "type": "Point",
+        "coordinates": [-81.0784, 24.707496],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "West Key",
+        "type": "Point",
+        "coordinates": [-81.768719, 24.552242],
+        "day": 5
+      }
+    ]
+  }
+]
