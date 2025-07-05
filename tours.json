@@ -10,47 +10,248 @@
     "ratingsQuantity": 6,
     "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
     "startDates": [
-      "2025-06-19T09:00:00.000Z",
-      "2025-07-20T09:00:00.000Z",
-      "2025-08-18T09:00:00.000Z"
+      "2025-07-19T09:00:00.000Z",
+      "2025-08-20T09:00:00.000Z",
+      "2025-09-18T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2955",
     "name": "Mystic Mustang Adventure",
-    "duration": 6,
+    "duration": 4,
     "maxGroupSize": 15,
     "difficulty": "medium",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
-    "price": 5000,
+    "price": 10000,
     "summary": "Discover the breathtaking landscapes of Mustang, Nepal through scenic treks and cultural exploration.",
-    "description": "Journey into the mystical landscapes of Mustang, Nepal — a region known for its dramatic cliffs, ancient monasteries, and vibrant Tibetan-influenced culture. Explore the hidden trails of the Forbidden Kingdom, where centuries-old caves and panoramic views of the Himalayas await at every turn.\n\nThis unforgettable adventure takes you through remote villages, sacred temples, and windswept valleys, offering a rare glimpse into the preserved traditions of this high-altitude desert. From crossing deep gorges to experiencing the local hospitality, every step in Mustang is a story waiting to be told. Perfect for cultural seekers and trekking enthusiasts alike, this tour is a gateway to one of Nepal's most captivating and untouched regions",
+    "description": "Journey into the mystical landscapes of Mustang, Nepal — a region known for its dramatic cliffs, ancient monasteries, and vibrant Tibetan-influenced culture. Explore the hidden trails of the Forbidden Kingdom, where centuries-old caves and panoramic views of the Himalayas await at every turn.This unforgettable adventure takes you through remote villages, sacred temples, and windswept valleys, offering a rare glimpse into the preserved traditions of this high-altitude desert. From crossing deep gorges to experiencing the local hospitality, every step in Mustang is a story waiting to be told. Perfect for cultural seekers and trekking enthusiasts alike, this tour is a gateway to one of Nepal's most captivating and untouched regions",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Lummus Park Beach",
+        "description": "Tatopani Hot Spring",
         "type": "Point",
-        "coordinates": [-80.128473, 25.781842],
+        "coordinates": [28.4961, 83.6542],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2958",
-        "description": "Islamorada",
+        "description": "Marpha",
         "type": "Point",
-        "coordinates": [-80.647885, 24.909047],
+        "coordinates": [28.8151, 83.6455],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2957",
-        "description": "Sombrero Beach",
+        "description": "Muktinath Temple",
         "type": "Point",
-        "coordinates": [-81.0784, 24.707496],
+        "coordinates": [28.8172, 83.8719],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2956",
-        "description": "West Key",
+        "description": "Jomsom",
         "type": "Point",
-        "coordinates": [-81.768719, 24.552242],
-        "day": 5
+        "coordinates": [28.7746, 83.7730],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Pokhara, Nepal",
+      "type": "Point",
+      "coordinates": [28.2096, 83.9856],
+      "address": "Pokhara, Gandaki Province, 33700, Nepal"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2025-07-25T09:00:00.000Z",
+      "2025-08-20T09:00:00.000Z",
+      "2025-19-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Gateway to the Himalayas",
+    "duration": 3,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price":9000,
+    "summary": "Scenic journey through the lakes, temples, and breathtaking Himalayan views of Pokhara, Nepal.",
+    "description": "Explore the natural beauty and cultural charm of Pokhara, Nepal. Walk along the serene Phewa Lake, marvel at the stunning Annapurna mountain range, and discover hidden temples and peaceful monasteries throughout the city.\n\nThis tour offers a perfect blend of relaxation and adventure. From peaceful boat rides to thrilling paragliding flights, Pokhara promises unforgettable moments for every traveler. Witness spectacular sunrise views from Sarangkot and immerse yourself in the tranquil atmosphere of this Himalayan paradise.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Fewa Taal",
+        "type": "Point",
+        "coordinates": [28.2154, 83.9453],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Bat Cave",
+        "type": "Point",
+        "coordinates": [28.26764, 83.97596],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Mahendra Cave",
+        "type": "Point",
+        "coordinates": [28.27180, 83.97944],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Devi's Fall",
+        "type": "Point",
+        "coordinates": [28.18974, 83.95863],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Rupandehi, Nepal",
+      "type": "Point",
+      "coordinates": [27.5330, 83.3789],
+      "address": "Lumbini, Rupandehi District, Lumbini Province, 32914, Nepal"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "The Enlightenment Path",
+    "duration": 2,
+    "maxGroupSize": 10,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 5000,
+    "summary": "A peaceful journey to Lumbini, the birthplace of Lord Buddha, filled with history, spirituality, and cultural exploration.",
+    "description": "Experience the tranquility and spiritual essence of Lumbini, Nepal — the sacred birthplace of Lord Buddha. Walk through the beautiful monastic zones, visit the Maya Devi Temple, and explore ancient ruins and serene gardens that hold deep historical and religious significance.\n\nThis journey offers a perfect blend of peaceful reflection and cultural discovery. From sacred stupas to beautifully constructed monasteries from around the world, every step in Lumbini connects you to centuries of Buddhist heritage and timeless peace.",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Lumbini",
+        "type": "Point",
+        "coordinates": [27.9207, 82.7347],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Lumbini Palace Resort",
+        "type": "Point",
+        "coordinates": [27.58464, 83.37683],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Chitwan, Nepal",
+      "type": "Point",
+      "coordinates": [27.5291, 84.3542],
+      "address": "Chitwan, Bagmati Province, 44200, Nepal"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "The Green Heart of Nepal",
+    "duration": 2,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 7000,
+    "summary": "Breathe in the wild beauty of Chitwan National Park, Nepal’s most spectacular jungle escape.",
+    "description": "Discover the untamed wilderness of Chitwan National Park, where lush jungles, rich biodiversity, and thrilling wildlife encounters await. Home to endangered species like the one-horned rhinoceros, Bengal tigers, and gharial crocodiles, Chitwan offers an unforgettable journey into Nepal’s most iconic natural treasure.\n\nExperience peaceful canoe rides along the Rapti River, exciting jeep safaris, and guided jungle walks that bring you face-to-face with the incredible wildlife of the region. Dive into the unique culture of the Tharu community and embrace the perfect harmony of adventure, nature, and tradition in this extraordinary destination.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Narayani Sightseeing",
+        "type": "Point",
+        "coordinates": [27.6833, 84.4167],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Chitwan National Park",
+        "type": "Point",
+        "coordinates": [27.5193, 84.3135],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kathmandu, Nepal",
+      "type": "Point",
+      "coordinates": [27.7103, 85.3222],
+      "address": "Kathmandu, Bagmati Province, 44600, Nepal"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "The City Wanderer",
+    "duration": 4,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 12000,
+    "summary": "Living the adventure in Kathmandu, Nepal's vibrant capital filled with ancient temples, bustling streets, and breathtaking valley views.",
+    "description": "Discover the heart of Nepal in Kathmandu — a city where ancient traditions and modern life blend seamlessly. Explore majestic temples, colorful markets, and centuries-old courtyards that tell stories of a rich cultural past. From the sacred Swayambhunath Stupa to the lively streets of Thamel, every corner of Kathmandu invites you to experience something new.Wander through the UNESCO World Heritage Sites, taste local flavors, and immerse yourself in the sights and sounds of this unforgettable city. Whether you're chasing history, spirituality, or local adventure, Kathmandu promises a journey you'll always remember!",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Swoyambhu Mahachaitya",
+        "type": "Point",
+        "coordinates": [27.7149, 85.2904],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Central Zoo",
+        "type": "Point",
+        "coordinates": [27.6727, 85.3118],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Pashupatinath Temple",
+        "type": "Point",
+        "coordinates": [27.7105, 85.3488],
+        "day": 2
       }
     ]
   }
