@@ -150,12 +150,12 @@ body {
 }
 
 .footerBox {
-  background-color: azure;
+  background-color: #50504d;
   text-align: center;
   min-height: 30px;
 }
 .footerBox p {
-  color: black;
+  color: white;
   font-size: 1.8rem;
 }
 .navright {
@@ -256,10 +256,12 @@ button:hover {
   text-decoration: underline;
 }
 .footer-contact {
-  background-color: #111;
+  background-color: #50504d;
+  opacity: 0.8;
   color: #fff;
   padding: 40px 20px;
   text-align: center;
+  height: 20rem;
 }
 
 .footer-inner {
@@ -270,6 +272,7 @@ button:hover {
 .footer-logo {
   width: 150px;
   margin-bottom: 20px;
+  border-radius: 1rem;
 }
 
 .footer-contact p {

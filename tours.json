@@ -223,11 +223,11 @@
     ],
     "_id": "5c88fa8cf4afda39709c295d",
     "name": "The City Wanderer",
-    "duration": 4,
+    "duration": 3,
     "maxGroupSize": 20,
     "difficulty": "easy",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
-    "price": 12000,
+    "price": 10000,
     "summary": "Living the adventure in Kathmandu, Nepal's vibrant capital filled with ancient temples, bustling streets, and breathtaking valley views.",
     "description": "Discover the heart of Nepal in Kathmandu — a city where ancient traditions and modern life blend seamlessly. Explore majestic temples, colorful markets, and centuries-old courtyards that tell stories of a rich cultural past. From the sacred Swayambhunath Stupa to the lively streets of Thamel, every corner of Kathmandu invites you to experience something new.Wander through the UNESCO World Heritage Sites, taste local flavors, and immerse yourself in the sights and sounds of this unforgettable city. Whether you're chasing history, spirituality, or local adventure, Kathmandu promises a journey you'll always remember!",
     "imageCover": "tour-4-cover.jpg",
@@ -252,6 +252,258 @@
         "type": "Point",
         "coordinates": [27.7105, 85.3488],
         "day": 2
+      },
+      {
+        "_id": "1",
+        "description": "Chandragiri Cable Car",
+        "type": "Point",
+        "coordinates": [27.68655, 85.21443],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Lalitpur, Nepal",
+      "type": "Point",
+      "coordinates": [27.6588, 85.3247],
+      "address": "Lalitpur, Bagmati Province, 44700, Nepal"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 9,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "2",
+    "name": "Lalitpur Heritage Walk",
+    "duration": 3,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["3", "4"],
+    "price": 8000,
+    "summary": "Living the charm of Lalitpur, Nepal’s city of art and heritage, where ancient temples, royal courtyards, and peaceful green spaces await discovery.",
+    "description": "Experience the cultural heartbeat of Nepal in Lalitpur — a city where timeless craftsmanship and vibrant local life beautifully come together. Explore the stunning Patan Durbar Square, filled with intricately carved temples, golden shrines, and centuries-old palaces that showcase the city's rich artistic legacy. From the sacred Krishna Mandir to the lively alleys surrounding the square, every corner of Lalitpur offers a glimpse into Nepal’s living history. Take a peaceful break at the Lalitpur Zoo, Nepal’s oldest zoo, where you can enjoy quiet walks and encounter fascinating wildlife in a serene setting. Whether you're chasing ancient stories, architectural marvels, or a relaxing family day, Lalitpur promises a journey full of culture, beauty, and unforgettable experiences!",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5",
+        "description": "Patan Durbar Square",
+        "type": "Point",
+        "coordinates": [27.6727, 85.3253],
+        "day": 1
+      },
+      {
+        "_id": "6",
+        "description": "Central Zoo",
+        "type": "Point",
+        "coordinates": [27.6727, 85.3118],
+        "day": 2
+      },
+      {
+        "_id": "7",
+        "description": "Hiranya Varna Mahavihar",
+        "type": "Point",
+        "coordinates": [27.67536, 85.32447],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bandipur, Nepal",
+      "type": "Point",
+      "coordinates": [27.9170, 84.4068],
+      "address": "Bandipur-04, Thuldhunga, Tanahun District, Gandaki Province, 33904, Nepal"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "8",
+    "name": "Mystic Bandipur Trails",
+    "duration": 2,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["9", "10"],
+    "price": 6000,
+    "summary": "Living the allure of Bandipur, a serene hilltop town in Nepal where panoramic Himalayan views, rich Newari heritage, and a peaceful atmosphere create an unforgettable experience.",
+    "description": "Uncover the timeless beauty of Bandipur — a historic Newari settlement gracefully perched above the Marsyangdi River Valley. Here, the distant snow-capped peaks of Annapurna, Dhaulagiri, and Manaslu paint a breathtaking horizon. As you wander through beautifully preserved stone pathways, traditional houses, and vibrant town squares, you’ll step into a living showcase of Nepal’s cultural history. Whether you're watching the golden sunrise from the Tundikhel viewpoint, exploring the mystical depths of Siddha Cave, or simply soaking in the tranquil hilltop ambiance, Bandipur invites you to pause, reflect, and savor its quiet charm. Perfect for leisurely strolls, cultural discoveries, and scenic retreats, Bandipur offers moments that linger long after the journey ends.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "11",
+        "description": "Bandipur Local Exploration",
+        "type": "Point",
+        "coordinates": [27.9170, 84.4068],
+        "day": 1
+      },
+      {
+        "_id": "12",
+        "description": "Nature and Caves",
+        "type": "Point",
+        "coordinates": [27.94849, 84.41900],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Manang, Nepal",
+      "type": "Point",
+      "coordinates": [28.6667, 84.0167],
+      "address": "Manang, Manang District, Gandaki Province, 33500, Nepal"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "13",
+    "name": "Manang Peaks & Valleys Tour",
+    "duration": 4,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["14", "15"],
+    "price": 12000,
+    "summary": "Experience the breathtaking wonders of Manang, a high-altitude Himalayan haven where pristine lakes, rugged mountain landscapes, and rich Tibetan-influenced culture come together in perfect harmony.",
+    "description": "Nestled deep within the Annapurna region, Manang offers an unforgettable blend of natural beauty and cultural richness. Surrounded by towering peaks like Annapurna II and Gangapurna, this remote valley captivates visitors with its shimmering alpine lakes, including the stunning Tilicho and Gangapurna Lakes. Explore traditional villages adorned with prayer flags and ancient mani stones, reflecting a deep spiritual heritage influenced by Tibetan Buddhism. Whether trekking along serene trails, witnessing crystal-clear waters framed by majestic mountains, or connecting with the warm local communities, Manang invites you to embark on a journey of awe and tranquility. Ideal for adventure seekers and culture lovers alike, this region promises sweeping vistas and soulful experiences that stay with you long after you leave.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "16",
+        "description": "Besisahar",
+        "type": "Point",
+        "coordinates": [28.1962, 84.3857],
+        "day": 1
+      },
+      {
+        "_id": "17",
+        "description": "Manang Sightseeing",
+        "type": "Point",
+        "coordinates": [28.6667, 84.0167],
+        "day": 2
+      },
+      {
+        "_id": "18",
+        "description": "Valley Tour",
+        "type": "Point",
+        "coordinates": [28.6369, 84.0394],
+        "day": 3
+      },
+      {
+        "_id": "19",
+        "description": "Manang to Jagat",
+        "type": "Point",
+        "coordinates": [28.4147, 84.4066],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Baglung,Nepal",
+      "type": "Point",
+      "coordinates": [28.2774, 83.5816],
+      "address": "Baglung, Baglung District, Gandaki Province, 33300, Nepal"
+    },
+    "ratingsAverage": 4.2,
+    "ratingsQuantity": 9,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "20",
+    "name": "Dhorpatan Wilderness Trek",
+    "duration": 3,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["21", "22"],
+    "price": 8000,
+    "summary": "Discover the rugged beauty of Dhorpatan, Nepal’s only hunting reserve, where vast alpine meadows, diverse wildlife, and pristine forests create an adventurous escape into nature’s untouched realm.",
+    "description": "Set amidst the remote Dhaulagiri Himalayas, Dhorpatan Hunting Reserve offers a rare glimpse into Nepal’s wild heart. Known for its sprawling grasslands, dense pine forests, and rich biodiversity, this protected area is a haven for mountain wildlife, including blue sheep, Himalayan tahr, musk deer, and elusive snow leopards. Visitors can explore tranquil trails that weave through high-altitude landscapes, experience traditional rural communities, and witness spectacular views of snow-capped peaks. Whether you’re trekking across open meadows, birdwatching in pristine habitats, or simply soaking in the serene wilderness, Dhorpatan provides a unique blend of adventure, conservation, and cultural heritage. Perfect for nature enthusiasts and wildlife lovers seeking an off-the-beaten-path experience.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "23",
+        "description": "Camping at Dhorpatan",
+        "type": "Point",
+        "coordinates": [28.5001, 83.0645],
+        "day": 1
+      },
+      {
+        "_id": "24",
+        "description": "Dhorpatan Hunting Expedition",
+        "type": "Point",
+        "coordinates": [28.5856, 82.9932],
+        "day": 2
+      },
+      {
+        "_id": "25",
+        "description": "Dhorpatan Hunting Expedition",
+        "type": "Point",
+        "coordinates": [28.5856, 82.9932],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bardiya, Nepal",
+      "type": "Point",
+      "coordinates": [28.3102, 81.4279],
+      "address": "Bardiya, Bardiya District, Lumbini Province, 21800, Nepal"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "26",
+    "name": "Bardia Nature & Safari Adventure",
+    "duration": 3,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["27", "28"],
+    "price": 10000,
+    "summary": "Experience the vibrant wilderness of Bardiya, Nepal’s largest lowland national park, where lush forests, diverse wildlife, and tranquil rivers offer an unforgettable jungle adventure.",
+    "description": "Located in the Terai plains, Bardiya National Park is a sanctuary of biodiversity and natural beauty. Home to Bengal tigers, one-horned rhinoceroses, elephants, and numerous bird species, this protected area invites visitors to explore dense forests, wide grasslands, and serene riverbanks. Trek through untamed jungle trails, observe wildlife in their natural habitats, and connect with the local Tharu communities to experience their unique culture. Whether on a thrilling jungle safari, birdwatching excursion, or peaceful nature walk, Bardiya offers an enriching blend of adventure and conservation. Ideal for wildlife enthusiasts and nature lovers looking to discover Nepal’s hidden wild treasures.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "29",
+        "description": "Village Tour",
+        "type": "Point",
+        "coordinates": [28.316528, 81.387199],
+        "day": 1
+      },
+      {
+        "_id": "30",
+        "description": "Jungle Walk",
+        "type": "Point",
+        "coordinates": [28.3649, 81.5596],
+        "day": 2
+      },
+      {
+        "_id": "31",
+        "description": "Jeep Safari",
+        "type": "Point",
+        "coordinates": [28.3649, 81.5596],
+        "day": 3
       }
     ]
   }
