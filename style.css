@@ -316,6 +316,46 @@ body {
   outline: none;
   background-color: #dcb827;
 }
+.footer-contact {
+    background-color: #50504d;
+    opacity: 0.8;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.footer-inner {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.footer-logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.footer-contact p {
+    margin: 10px 0;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.footer-contact a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    text-decoration: underline;
+}
+
+.icon {
+    font-style: normal;
+}
 
 
 .footerBox {
@@ -355,6 +395,13 @@ body {
   .logo-img {
     margin-right: 20px; /* Reduce margin */
   }
+
+  .hero-img {
+  height: 400px;
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
 
   .hero .overlay span,
   .hero .overlaybottom span {
